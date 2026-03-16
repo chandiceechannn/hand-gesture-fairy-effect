@@ -28,9 +28,11 @@ When a hand appears in front of the camera, magical fairy and power effects appe
 - power2.mp4
 
 ## Project Structure
-```fairy-hand-gesture
+```
+fairy-hand-gesture
 │
 ├── index.html
 └── assets3
-├── fairy1.mp4
-└── power2.mp4```
+    ├── fairy1.mp4
+    └── power2.mp4
+```
