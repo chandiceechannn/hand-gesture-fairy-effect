@@ -26,3 +26,5 @@ When a hand appears in front of the camera, magical fairy and power effects appe
 ## Assets
 - fairy1.mp4
 - power2.mp4
+
+## Project Structure
